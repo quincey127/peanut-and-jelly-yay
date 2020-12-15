@@ -1,2 +1,10 @@
 # peanut-and-jelly-yay
-meow
+ingredients 
+jelly
+bread
+peanutButter
+recipie
+apply jelly to bread
+apply peanut butter to bread
+put together
+Yay
